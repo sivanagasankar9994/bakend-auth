@@ -1,0 +1,33 @@
+1.singup
+2.login
+3.getUsers
+4.getuser based on id
+5.update user using patch and put
+6.delete
+7.logout
+8.forgotpassword link to user
+9.reset password
+10.based on users filter sort limit fields
+11.create api single and multiple features addd
+
+
+1.singup up generate token and error handle and password encrpyt and send mail to registered user
+2.login compare password and error handle and 
+
+3.restrict routes and getusers,getuser,update,delete
+
+
+1.express
+2.mongoose
+3.bodyparser
+4.bycrtptjs
+5.jsonwebtoken
+6.nodemailer
+7.dotenv
+8.multar
+9.shortid
+10
+
+
+
+1440 equal to 24 hours
